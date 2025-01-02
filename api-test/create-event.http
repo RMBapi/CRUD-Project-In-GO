@@ -1,0 +1,12 @@
+POST http://localhost:8080/events
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlJhZmlkQHBhdGhhby5jb20iLCJleHAiOjE3MzU4NTM2MDUsInVzZXJJZCI6OH0._HiS78JGYQDaNPMV1a-q7SMYNWyASyOtxst6OVltEIc
+
+
+{
+	"name" : "Rafid",        
+	"description" : "Welcome" ,
+	"location" : "Banasree",    
+	"dateTime" : "2025-02-01T15:30:00.000Z"    
+	
+}
